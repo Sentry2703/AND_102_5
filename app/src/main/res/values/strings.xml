@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nutrition Tracker</string>
+    <string name="add_food">Add Food</string>
+    <string name="food_names">Food Names</string>
+    <string name="food">Food:</string>
+    <string name="calories">Calories:</string>
+    <string name="add_food_record">Add Food Record</string>
+</resources>
